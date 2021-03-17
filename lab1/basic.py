@@ -1,5 +1,5 @@
 # game finding a secret number within 3 attempts using while loop
-num = 6
+num = 69
 t = 0
 while t<3:
     num_1 = int(input('guess a number'))
@@ -10,7 +10,7 @@ while t<3:
         print("wrong")
         t=t+1
 else:
-        print("your guess period is over")
+    print("your guess period is over you loser")
 
 
 
