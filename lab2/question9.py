@@ -9,4 +9,4 @@ elif year % 100 == 0:
 
 else:
 
-    print(f"{year} is not a leap year")
+    print(f"{year} is not a LEAP year")
