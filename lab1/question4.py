@@ -2,4 +2,5 @@
 num = int(input('enter a number'))
 hour = num//60
 minutes = num % 60
+
 print(f'the time now is {hour} : {minutes}')
